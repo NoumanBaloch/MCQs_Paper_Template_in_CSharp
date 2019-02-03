@@ -1,0 +1,16 @@
+D:\C# Code\Papers practical asif janjua\MCQS Paper\MCQS Paper\bin\Debug\MCQS Paper.exe
+D:\C# Code\Papers practical asif janjua\MCQS Paper\MCQS Paper\bin\Debug\MCQS Paper.pdb
+D:\C# Code\Papers practical asif janjua\MCQS Paper\MCQS Paper\obj\x86\Debug\MCQS_Paper.Form1.resources
+D:\C# Code\Papers practical asif janjua\MCQS Paper\MCQS Paper\obj\x86\Debug\MCQS_Paper.Properties.Resources.resources
+D:\C# Code\Papers practical asif janjua\MCQS Paper\MCQS Paper\obj\x86\Debug\MCQS Paper.csproj.GenerateResource.Cache
+D:\C# Code\Papers practical asif janjua\MCQS Paper\MCQS Paper\obj\x86\Debug\MCQS Paper.exe
+D:\C# Code\Papers practical asif janjua\MCQS Paper\MCQS Paper\obj\x86\Debug\MCQS Paper.pdb
+D:\C# Code\Papers practical asif janjua\MCQS Paper\MCQS Paper\obj\x86\Debug\MCQS Paper.csprojResolveAssemblyReference.cache
+D:\Nouman\BSIT\Semester 6\C#\C# Code\Papers practical asif\MCQS Paper\MCQS Paper\obj\x86\Debug\MCQS Paper.exe
+D:\Nouman\BSIT\Semester 6\C#\C# Code\Papers practical asif\MCQS Paper\MCQS Paper\obj\x86\Debug\MCQS Paper.pdb
+D:\Nouman\BSIT\Semester 6\C#\C# Code\Papers practical asif\MCQS Paper\MCQS Paper\bin\Debug\MCQS Paper.exe
+D:\Nouman\BSIT\Semester 6\C#\C# Code\Papers practical asif\MCQS Paper\MCQS Paper\bin\Debug\MCQS Paper.pdb
+D:\Nouman\BSIT\Semester 6\C#\C# Code\Papers practical asif\MCQS Paper\MCQS Paper\obj\x86\Debug\MCQS Paper.csprojResolveAssemblyReference.cache
+D:\Nouman\BSIT\Semester 6\C#\C# Code\Papers practical asif\MCQS Paper\MCQS Paper\obj\x86\Debug\MCQS_Paper.Form1.resources
+D:\Nouman\BSIT\Semester 6\C#\C# Code\Papers practical asif\MCQS Paper\MCQS Paper\obj\x86\Debug\MCQS_Paper.Properties.Resources.resources
+D:\Nouman\BSIT\Semester 6\C#\C# Code\Papers practical asif\MCQS Paper\MCQS Paper\obj\x86\Debug\MCQS Paper.csproj.GenerateResource.Cache
